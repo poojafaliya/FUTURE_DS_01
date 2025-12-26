@@ -89,3 +89,5 @@ Understand monthly sales patterns
 Compare sales contribution across years
 
 Support data-driven decision making for online retail business
+
+# 📸 Dashboard Preview
