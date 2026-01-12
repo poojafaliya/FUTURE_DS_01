@@ -91,3 +91,4 @@ Compare sales contribution across years
 Support data-driven decision making for online retail business
 
 # 📸 Dashboard Preview
+<img width="740" height="379" alt="image" src="https://github.com/user-attachments/assets/7f870ad9-97be-42aa-a4a9-e579e2a0a249" />
