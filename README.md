@@ -22,6 +22,15 @@ Countries
 
 Time-based attributes (Year, Month)
 
+
+
+#   👤 Author
+[Pooja Faliya] Data Analyst | Python & SQL Enthusiast | Power BI Learner
+
+# 📧 Email: poojafaliya1@gmail.com
+# 💼 LinkedIn: http://www.linkedin.com/in/pooja-faliya-8b5428358
+
+
 The data was cleaned and modeled inside Power BI for analysis.
 
 # 🎯 Key KPIs
