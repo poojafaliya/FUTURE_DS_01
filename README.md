@@ -21,18 +21,6 @@ Order dates
 Countries
 
 Time-based attributes (Year, Month)
-
-
-
-#   👤 Author
-[Pooja Faliya] Data Analyst | Python & SQL Enthusiast | Power BI Learner
-
-# 📧 Email: poojafaliya1@gmail.com
-# 💼 LinkedIn: http://www.linkedin.com/in/pooja-faliya-8b5428358
-
-
-The data was cleaned and modeled inside Power BI for analysis.
-
 # 🎯 Key KPIs
 
 Total Sales
@@ -101,6 +89,12 @@ Support data-driven decision making for online retail business
 
 # 📸 Dashboard Preview
 <img width="740" height="379" alt="image" src="https://github.com/user-attachments/assets/7f870ad9-97be-42aa-a4a9-e579e2a0a249" />
+
+#   👤 Author
+[Pooja Faliya] Data Analyst | Python & SQL Enthusiast | Power BI Learner
+
+# 📧 Email: poojafaliya1@gmail.com
+# 💼 LinkedIn: http://www.linkedin.com/in/pooja-faliya-8b5428358
 
 
 
